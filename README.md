@@ -4,6 +4,19 @@
 
 这是一个用于CTF比赛中SQL注入测试的工具，提供了自动化的注入点检测、注入语法生成和详细的注入建议。该工具通过本地代理服务器绕过浏览器的CORS限制，实现跨域请求测试。
 
+
+## 阿里云ESA支持
+
+本项目由阿里云ESA提供加速、计算和保护
+
+![阿里云ESA支持](https://img.alicdn.com/imgextra/i3/O1CN01H1UU3i1Cti9lYtFrs_!!6000000000139-2-tps-7534-844.png)
+
+
+## 在线访问
+
+项目在线地址：[https://webbase64decoder.bbd0e568.er.aliyun-esa.net](https://sqlguard.bbd0e568.er.aliyun-esa.net/)
+
+
 ## 环境要求
 
 - Node.js 12+（用于运行本地代理服务器）
