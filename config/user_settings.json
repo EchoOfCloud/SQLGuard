@@ -1,0 +1,13 @@
+{
+    "theme": "默认",
+    "first_run_reminder": true,
+    "LLM_CONFIG": {},
+    "base_config": {
+        "proxy": {
+            "url": ""
+        }
+    },
+    "font_settings": {
+        "font_family": ""
+    }
+}

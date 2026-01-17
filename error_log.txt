@@ -1,0 +1,12 @@
+2026-01-06 14:58:09,257 - __main__ - ERROR - Unhandled exception in main: [Errno 2] No such file or directory: 'config/style.json'
+Traceback (most recent call last):
+  File "c:\Program Files (x86)\LovelyMem-NewWorld\main.py", line 84, in main
+    from ui.main_window import MainWindow
+  File "c:\Program Files (x86)\LovelyMem-NewWorld\ui\main_window.py", line 18, in <module>
+    from ui.memprocfs_area import MemProcFSArea
+  File "c:\Program Files (x86)\LovelyMem-NewWorld\ui\memprocfs_area.py", line 3, in <module>
+    from ui.styles import memprocfs_style, button_style, right_panel_style
+  File "c:\Program Files (x86)\LovelyMem-NewWorld\ui\styles.py", line 46, in <module>
+    color_schemes = json.load(open("config/style.json", "r", encoding="utf-8"))
+FileNotFoundError: [Errno 2] No such file or directory: 'config/style.json'
+

@@ -1,0 +1,28 @@
+{
+  "name": "SQLGuard",
+  "version": "1.0.0",
+  "description": "专为CTF比赛设计的SQL注入测试工具",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static website built successfully'",
+    "dev": "echo 'Dev mode'"
+  },
+  "keywords": [
+    "base64",
+    "decoder",
+    "web-tool",
+    "batch-processing"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.3.0",
+    "jquery": "^3.7.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "homepage": "."
+}
